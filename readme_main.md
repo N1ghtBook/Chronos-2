@@ -1,6 +1,6 @@
 ## Erste Schritte vor dem Start, unbedingt ausführen
-Im Terminalfenster: 
-1. Python installieren, Version: ">=3.10", im Installer das Häkchen bei **"Add python.exe to PATH"** setzen
+Im Terminalfenster ab Schritt 2: 
+1. Python installieren (über Website), Version: ">=3.10", im Installer das Häkchen bei **"Add python.exe to PATH"** setzen
 2. Ordner betreten: cd Projektordnername (z.B. Chronos-2)
 3. Virtuelle Umgebung erstellen: `python -m venv .venv` (.venv ist der Bezeichner der virtuellen Umgebung, kann auch anders genannt werden)
 4. Umgebung aktivieren in Windows: `.\.venv\Scripts\activate`, Mac/Linux: source `.venv/bin/activate`
